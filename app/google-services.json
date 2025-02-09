@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520289655117",
+    "project_id": "nfcapp-2fc62",
+    "storage_bucket": "nfcapp-2fc62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520289655117:android:0256b833a140347bad3f04",
+        "android_client_info": {
+          "package_name": "com.example.nfcapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgkgo5fWwiH-0V8EXiRh380ShJhbrM5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
